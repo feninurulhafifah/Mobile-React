@@ -1,6 +1,6 @@
-<!-- <h1 align="center">🍽️ React Native Recipe App 🍽️</h1>
+<h1 align="center">🍽️ React Native Recipe App 🍽️</h1>
 
-![Demo App](/mobile/assets/images//screenshot-for-readme.png) -->
+![Demo App](/mobile/assets/images//screenshot-for-readme.png)
 
 
 ---
