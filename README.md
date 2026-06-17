@@ -2,14 +2,6 @@
 
 ![Demo App](/mobile/assets/images//screenshot-for-readme.png)
 
-Highlights:
-
-- 🔐 Signup, Login, and 6-Digit Email Verification with **Clerk**
-- 🍳 Browse Featured Recipes & Filter by Categories
-- 🔍 Search Recipes and View Detailed Cooking Instructions
-- ❤️ Add Recipes to Favorites and Access Them from Favorites Tab
-- ⚡ Tech Stack: React Native + Express + PostgreSQL + Expo
-- 🌈 Includes 8 Color Themes
 
 ---
 
